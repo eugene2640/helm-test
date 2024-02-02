@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  my-app:
+  - apiVersion: v2
+    created: "2024-02-02T02:52:18.730165885Z"
+    digest: a59f4f6904d2183cd5ee60551cb043f7927a45956f3edcaa426f4bbef7e24228
+    name: my-app
+    urls:
+    - https://eugene2640.github.io/helm-test/my-app-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-02-02T02:52:18.729827837Z"
